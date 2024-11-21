@@ -1,4 +1,4 @@
-# Zigment Assignment 
+# Zigment Backend Assignment - User Notification Preferences API Challenge 
 
 ## Installation 
 To install the dependencies run the following cmd 
